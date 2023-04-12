@@ -43,3 +43,7 @@ This is not a blockquote any more.
    1. nested
 
 3. three
+
+---
+
+Hello, there!
