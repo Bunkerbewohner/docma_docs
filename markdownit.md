@@ -49,7 +49,7 @@ This is not a blockquote any more.
 ```php
 <?php the_content(); ?>```---
 
-Hello, there!
+Hello, `there`!
 
 # Images
 
