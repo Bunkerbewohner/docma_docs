@@ -6,4 +6,4 @@
 >
 > > Nested blockquote
 
-This is not a
+This is not a blockquote any more.
