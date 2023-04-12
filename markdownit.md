@@ -44,6 +44,8 @@ This is not a blockquote any more.
 
 3. three
 
+# Code
+
 ---
 
 Hello, there!
