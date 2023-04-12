@@ -10,4 +10,4 @@ Noch ein Absatz.
 
 * Punkten
 
-Und ein abschließ
+Und ein abschließender Absatz.
