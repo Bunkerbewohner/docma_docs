@@ -46,7 +46,8 @@ This is not a blockquote any more.
 
 # Code
 
----
+```php
+<?php the_c```---
 
 Hello, there!
 
