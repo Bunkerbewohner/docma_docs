@@ -49,3 +49,7 @@ This is not a blockquote any more.
 Hello, there!
 
 # Images
+
+![Minion](https://octodex.github.com/images/minion.png) Haoho
+
+# More
