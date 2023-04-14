@@ -17,7 +17,3 @@ Absatz.
 Und ein abschließender Absatz.
 
 ## Aufgaben
-
-* \[ \] TODO
-
-* \[ \] 
