@@ -17,5 +17,3 @@ Absatz.
 Und ein abschließender Absatz.
 
 ## Aufgaben
-
-\[ \] What.
