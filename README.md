@@ -23,6 +23,10 @@ Und ein abschließender Absatz.
 
 $x = 0;
 
+class MyClass {
+  public static function test() {
+}
+
 function testThis( array $array ) {
   $array\[\] = "hello";
   return $array;
