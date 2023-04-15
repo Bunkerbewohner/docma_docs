@@ -16,6 +16,10 @@ Absatz.
 
 Und ein abschließender Absatz.
 
+Some `inline code`.
+
+Inline.
+
 ## Aufgaben
 
 ```php
