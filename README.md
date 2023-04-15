@@ -23,4 +23,5 @@ Und ein abschließender Absatz.
 
 $x = 0;
 
-function testT```
+function testThis( array $array ) {
+  $```
