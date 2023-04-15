@@ -25,6 +25,8 @@ $x = 0;
 
 class MyClass {
   public static function test() {
+    $this->echo(81,"");
+
 }
 
 function testThis( array $array ) {
