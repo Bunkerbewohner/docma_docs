@@ -19,8 +19,6 @@ Und ein abschließender Absatz.
 ## Aufgaben
 
 ```php
-<?php
-
 $x = 0;
 
 class MyClass {
