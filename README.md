@@ -24,4 +24,6 @@ Und ein abschließender Absatz.
 $x = 0;
 
 function testThis( array $array ) {
-  $```
+  $array\[\] = "hello";
+  return $array;
+}```
